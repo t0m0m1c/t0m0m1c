@@ -16,6 +16,7 @@ My experience working in cyber sales has led me to develop a passion for cyberse
 | Digital Forensics using Autopsy and Magnet Axiom | |
 | Incident Response Planning and Execution      | TryHackMe SOC Level 1|
 | Penetration Testing                  | TryHackMe Jr Pentester|
+| Simulated tabletop exercises using OpenBAS | <a href="https://medium.com/@t0m0m1/setting-up-openbas-community-edition-cf3f5d2a032a">OpenBAS</a> | 
 
 ## Tools
 
@@ -52,6 +53,6 @@ My experience working in cyber sales has led me to develop a passion for cyberse
 </div>
 
 ## Portofolio
-- OpenBAS
+- <a href="https://medium.com/@t0m0m1/setting-up-openbas-community-edition-cf3f5d2a032a">OpenBAS</a>
 - <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-SHS5GWXOWT.pdf">TryHackMe SOC Level 1</a>
 - TryHackMe Jr Pentester
